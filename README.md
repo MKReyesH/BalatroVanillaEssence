@@ -33,4 +33,4 @@ Texture pack for the game Balatro. It features:
 ## Installation
 
 1) Download the latest version of the texture pack from [releases](https://github.com/MKReyesH/BalatroVanillaEssence/releases).
-1) Extract the contents in ```C:\Users\[Your User]\AppData\Roaming\Balatro```.
+1) Extract and move the ```resource``` folder inside ```C:\Users\[Your User]\AppData\Roaming\Balatro```.
