@@ -22,7 +22,7 @@ The most relevant features are:
 
   ![card_suiter](https://github.com/user-attachments/assets/14ab8f57-2e3e-4628-928c-74460b285cb6)
 
-- Card-enhancement tarots match their effect (inspired by and some assets from [@Ardit and @Moonspell](https://discord.com/channels/1116389027176787968/1292684173735366769))
+- Card-enhancement tarots match their effect (inspired by and some assets from [@Ardit](https://github.com/Ard1tion/Improved-Booster-Tarots/releases/latest) and [@Moonspell](https://discord.com/channels/1116389027176787968/1292684173735366769))
 
   ![card_modifiers](https://github.com/user-attachments/assets/7b53c6a8-975d-4f84-bddf-32fe97cae3e0)
 
@@ -36,5 +36,5 @@ The most relevant features are:
 
 ## Installation
 
-1) Download the latest version of the texture pack from [releases](https://github.com/MKReyesH/BalatroVanillaEssence/releases).
+1) Download the latest version of the texture pack from [releases](https://github.com/MKReyesH/BalatroVanillaEssence/releases/latest).
 1) Extract and move the ```resource``` folder inside ```C:\Users\[Your User]\AppData\Roaming\Balatro```.
