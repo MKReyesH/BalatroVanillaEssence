@@ -1,6 +1,6 @@
 # Balatro Vanilla Essence
 
-Texture pack for the game Balatro. It features:
+Texture pack for the game Balatro. The most relevant changes are:
 
 - Standard two-color suits for normal mode
 
