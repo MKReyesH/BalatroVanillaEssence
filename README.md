@@ -26,7 +26,7 @@ Texture pack for the game Balatro. It features:
 
   ![card_creators](https://github.com/user-attachments/assets/a2d560c2-0db1-4153-a40f-991671dcf16f)
 
-- Seal symbols match their effect (inspired by and some assets from [Iwas_alwaysLuna](https://discord.com/channels/1116389027176787968/1216064295633289286))
+- Seal symbols match their effect (inspired by and some assets from [@Iwas_alwaysLuna](https://discord.com/channels/1116389027176787968/1216064295633289286))
 
   ![card_seal](https://github.com/user-attachments/assets/976d4e25-fec1-4df7-a4cb-9f6d7c9595b3)
 
