@@ -1,6 +1,10 @@
 # Balatro Vanilla Essence
 
-Texture pack for the game Balatro. The most relevant changes are:
+Vanilla Essence is a simple texture pack for the game Balatro featuring many ideas from the Balatro [Subreddit](https://www.reddit.com/r/balatro/) and [Discord](https://discord.com/invite/balatro).
+
+Disclaimer: This work has been inspired by and has used some assets from other authors. Credits to their respective authors.
+
+The most relevant features are:
 
 - Standard two-color suits for normal mode
 
