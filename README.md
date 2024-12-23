@@ -38,3 +38,4 @@ The most relevant features are:
 
 1) Download the latest version of the texture pack from [releases](https://github.com/MKReyesH/BalatroVanillaEssence/releases/latest).
 1) Extract and move the ```resource``` folder inside ```C:\Users\[Your User]\AppData\Roaming\Balatro```.
+
