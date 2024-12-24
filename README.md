@@ -34,6 +34,10 @@ The most relevant features are:
 
   ![card_seal](https://github.com/user-attachments/assets/976d4e25-fec1-4df7-a4cb-9f6d7c9595b3)
 
+- Planet cards use the black figure card icon for the poker hands when possible (larger and more legible). When the poker hand requires cards of the same suit, the background of the card is colored
+
+  ![planets](https://github.com/user-attachments/assets/2cb5fadc-f287-4ca9-b69f-ff0eafe35116)
+
 ## Installation
 
 1) Download the latest version of the texture pack from [releases](https://github.com/MKReyesH/BalatroVanillaEssence/releases/latest).
