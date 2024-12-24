@@ -36,7 +36,7 @@ The most relevant features are:
 
 - Planet cards use the black figure card icon for the poker hands when possible (larger and more legible). When the poker hand requires cards of the same suit, the background of the card is colored
 
-  ![planets](https://github.com/user-attachments/assets/2cb5fadc-f287-4ca9-b69f-ff0eafe35116)
+  ![planets](https://github.com/user-attachments/assets/4ea27c37-a5bf-42cd-83c0-aee5649da860)
 
 ## Installation
 
