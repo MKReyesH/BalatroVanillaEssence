@@ -28,7 +28,7 @@ The most relevant features are:
 
 - Card-creation tarots are full-body colored. The planet and tarot creation cards match the colors of the planet and tarot seals, respectively (inspired by [@Moonspell](https://discord.com/channels/1116389027176787968/1292684173735366769)). Fool tarot is a mixture of the previous.
 
-  ![card_creators](https://github.com/user-attachments/assets/a2d560c2-0db1-4153-a40f-991671dcf16f)
+  ![card_creators](https://github.com/user-attachments/assets/cdf27214-1119-442f-b96c-9d6c5c798f97)
 
 - Seal symbols match their effect (inspired by and some assets from [@Iwas_alwaysLuna](https://discord.com/channels/1116389027176787968/1216064295633289286)).
 
