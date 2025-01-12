@@ -1,4 +1,4 @@
-card# Balatro Vanilla Essence
+# Balatro Vanilla Essence
 
 Vanilla Essence is a simple texture pack for the game Balatro featuring many ideas from the Balatro [Subreddit](https://www.reddit.com/r/balatro/) and [Discord](https://discord.com/invite/balatro).
 
