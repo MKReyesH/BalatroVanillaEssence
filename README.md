@@ -1,4 +1,4 @@
-# Balatro Vanilla Essence
+card# Balatro Vanilla Essence
 
 Vanilla Essence is a simple texture pack for the game Balatro featuring many ideas from the Balatro [Subreddit](https://www.reddit.com/r/balatro/) and [Discord](https://discord.com/invite/balatro).
 
@@ -20,7 +20,7 @@ The most relevant features are:
 
 - Suit-conversion tarots have the sky colored matching the four-color suits (inspired by [@ywssp](https://discord.com/channels/1116389027176787968/1292684173735366769)).
 
-  ![card_suiter](https://github.com/user-attachments/assets/14ab8f57-2e3e-4628-928c-74460b285cb6)
+  ![card_suiter](https://github.com/user-attachments/assets/bdf7bf5f-968e-4e43-af61-44cd7e761905)
 
 - Card-enhancement tarots match their effect (inspired by and some assets from [@Ardit](https://github.com/Ard1tion/Improved-Booster-Tarots/releases/latest) and [@Moonspell](https://discord.com/channels/1116389027176787968/1292684173735366769)).
 
@@ -32,7 +32,7 @@ The most relevant features are:
 
 - Seal symbols match their effect (inspired by and some assets from [@Iwas_alwaysLuna](https://discord.com/channels/1116389027176787968/1216064295633289286)).
 
-  ![card_seal](https://github.com/user-attachments/assets/976d4e25-fec1-4df7-a4cb-9f6d7c9595b3)
+  ![card_seal](https://github.com/user-attachments/assets/0dd68bba-8305-4a99-9655-225041cda9d2)
 
 - Planet cards use the black figure card icon for the poker hands when possible (larger and more legible). When the poker hand requires cards of the same suit, the background of the card is light-yellow colored.
 
