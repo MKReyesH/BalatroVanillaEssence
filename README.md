@@ -29,7 +29,7 @@ The most relevant features are:
   ![tarot_materials](README/tarot_materials.png)
   ![tarot_others](README/tarot_others.png)
 
-- Card-creation tarots are full-body colored. The planet and tarot creation cards match the colors of the planet and tarot seals, respectively (inspired by [@Moonspell](https://discord.com/channels/1116389027176787968/1292684173735366769)). Fool tarot is a mixture of the previous. The Joker creation tarot is grayscale with splashes of paint of the Jokers color palette.
+- Card-creation tarots are full-body colored. The planet and tarot creation cards match the colors of the planet and tarot seals, respectively (inspired by [@Moonspell](https://discord.com/channels/1116389027176787968/1292684173735366769)). Fool tarot is a mixture of the previous. Joker-creation tarot is grayscale with splashes of paint of the Jokers color palette.
 
   ![tarot_creators](README/tarot_creators.png)
 
