@@ -16,7 +16,7 @@ The most relevant features are:
 
 - Sins and gems Joker colors match the four-color suits (inspired by [@ywssp](https://discord.com/channels/1116389027176787968/1236681231262027906)).
 
-  ![card_jokers](https://github.com/user-attachments/assets/e379eb82-f49d-4677-805e-dda5a29c78c7)
+  ![card_jokers](https://github.com/user-attachments/assets/366f1af7-ae85-4cd6-a983-04c090c317a9)
 
 - Suit-conversion tarots have the sky colored matching the four-color suits (inspired by [@ywssp](https://discord.com/channels/1116389027176787968/1292684173735366769)).
 
